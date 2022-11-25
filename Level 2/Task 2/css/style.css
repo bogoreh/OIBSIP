@@ -1,0 +1,31 @@
+body {
+    background-color: #000;
+    max-width: 100%;
+}
+
+#steve, #steve1 {
+      width: 100%;
+}
+
+.bio {
+   color: #fff;
+   text-align: center;
+
+}
+
+#page {
+        color: #fff;
+        text-align: center;
+        font-size: 20px;
+        padding: 15px;
+}
+
+.foot {
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.name {
+     color: blue;
+}
